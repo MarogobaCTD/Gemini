@@ -38,4 +38,4 @@ Cursando a pós-graduação em Inteligência Artificial Aplicada pela Universida
 
 ### Diário
 #### 06/05/2024
-![alt text](imageGemini20240506.png)
+![Poema Nota Fiscal](imageGemini20240506.PNG)
