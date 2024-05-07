@@ -41,7 +41,8 @@ Instrução: **"Me descreve em forma de poema para uma criança de 10 anos o que
 ![Poema Nota Fiscal](imageGemini20240506.PNG)
 
 Instrução: **Crie um resumo com o arquivo de histórico de acessos aos sites, categorizando por tipo de site, quantidade de uso utilizando a linguagem Markdown para ser exibido no github**
-![Histórico](history.csv)
+
+[![Arquivo Histórico](https://img.shields.io/badge/%20Histórico%20-blue)](history.csv)
 
 ### Resumo do Histórico de Navegação (history.csv)
 
