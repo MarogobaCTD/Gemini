@@ -136,3 +136,17 @@ Este documento apresenta um resumo das atividades de navegação presentes no ar
 
 A análise do histórico de navegação demonstra um uso predominante de **redes sociais e sites de entretenimento**, seguido por **sites de notícias e plataformas educacionais**. Isso sugere um interesse por informação, aprendizado e conexão social, além de momentos de lazer e entretenimento.
 
+### 07/05/2024
+Continuação com o AIStudio com detalhes de como utilizar a ferramento e melhorar ainda mais a pesquisa.
+
+### 08/05/2024
+
+**Colab**
+Após realizar uma pesquisa usando o AIStudio, foi enviado o código para o Colab para analisarmos e verificar como funcionaria para a próxima aula.
+Imersao2.ipynb
+
+### 09/05/2024
+Aula da imersão da Alura como base para o futuro projeto.
+
+### 10/05/2024
+Aula da imersão da Alura como base para o futuro projeto.
